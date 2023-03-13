@@ -39,6 +39,7 @@ Distributed under the © 2023 GitHub, and Visual Studio Code https://code.visual
 
 E-mail addresses
 mzimasimbongwe98@gmail.com
+kanyisomadlebe@yahoo.com
 
 Frequently Asked Questions (FAQ)
 We have provided a frequently asked questions list to the websites to help users to relate to their question answers
